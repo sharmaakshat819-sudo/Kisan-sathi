@@ -1,0 +1,6 @@
+{
+  "name": "Kisan Saathi – Smart Mandi & Farmer Marketplace",
+  "description": "Comprehensive agricultural platform for real-time crop prices, direct selling, price forecasts, Kisan AI advisor, transport sharing, cold storage locator, and secure transactions.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
